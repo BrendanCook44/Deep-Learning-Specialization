@@ -12,8 +12,7 @@ For more information about the certification, visit the [Coursera course page](h
   - Project 1:
   - Project 2:
 - **Course 3: Structuring Machine Learning Projects**
-  - Project 1:
-  - Project 2:
+  - No Projects
 - **Course 4: Convolutional Neural Networks**
   - Project 1:
   - Project 2:
