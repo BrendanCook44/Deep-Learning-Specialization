@@ -1,4 +1,4 @@
-# Deep Learning Specialization Certification Projects
+# Deep Learning Specialization Certification
 
 This repository contains all projects & assignments associated with the completion of the Deep Learning Specialization Certification offered by Stanford and DeepLearning.AI.
 
