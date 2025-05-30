@@ -315,6 +315,11 @@ paket-files/
 # Python Tools for Visual Studio (PTVS)
 __pycache__/
 *.pyc
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook
+.ipynb_checkpoints
 
 # Cake - Uncomment if you are using it
 # tools/**
@@ -387,12 +392,4 @@ yarn-error.log*
 # batch files
 /Build.bat
 /Run.bat
-
-# Python
-__pycache__/
-*.py[cod]
-*$py.class
-
-# Jupyter Notebook
-.ipynb_checkpoints
 
