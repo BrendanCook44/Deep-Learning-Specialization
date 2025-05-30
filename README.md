@@ -1,6 +1,6 @@
 # Deep Learning Specialization Certification Projects
 
-This repository contains all files and projects associated with the completion of the Deep Learning Specialization Certification offered by Stanford and DeepLearning.AI.
+This repository contains all projects & assignments associated with the completion of the Deep Learning Specialization Certification offered by Stanford and DeepLearning.AI.
 
 For more information about the certification, visit the [Coursera course page](https://www.coursera.org/specializations/deep-learning).
 
